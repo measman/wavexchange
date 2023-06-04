@@ -82,16 +82,16 @@
         },
         {
             "name": "codeigniter4/settings",
-            "version": "v2.1.1",
+            "version": "v2.1.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/codeigniter4/settings.git",
-                "reference": "1fc133b0b2b853f0d6089108ed2793eaea933673"
+                "reference": "854224baa190723f5f22d9dcc32cdb37aeaf79cd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/codeigniter4/settings/zipball/1fc133b0b2b853f0d6089108ed2793eaea933673",
-                "reference": "1fc133b0b2b853f0d6089108ed2793eaea933673",
+                "url": "https://api.github.com/repos/codeigniter4/settings/zipball/854224baa190723f5f22d9dcc32cdb37aeaf79cd",
+                "reference": "854224baa190723f5f22d9dcc32cdb37aeaf79cd",
                 "shasum": ""
             },
             "require": {
@@ -131,9 +131,9 @@
             ],
             "support": {
                 "issues": "https://github.com/codeigniter4/settings/issues",
-                "source": "https://github.com/codeigniter4/settings/tree/v2.1.1"
+                "source": "https://github.com/codeigniter4/settings/tree/v2.1.2"
             },
-            "time": "2023-05-11T13:45:06+00:00"
+            "time": "2023-06-02T07:15:16+00:00"
         },
         {
             "name": "codeigniter4/shield",
